@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tp4Prog</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings">as</string>
+    <string name="action_settings2">Setting2</string>
+    <string name="action_settings3">Setting3</string>
+    <string name="titre_section0">Hiver</string>
+    <string name="titre_section1">Ete</string>
+    <string name="titre_section2">Printemps</string>
+    <string name="titre_section3">Automne</string>
+    <string name="titre_section4">Saisons</string>
+
+
+</resources>

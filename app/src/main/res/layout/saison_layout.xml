@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="500px"
+    android:layout_marginLeft="250px">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="104dp"
+        android:layout_height="104dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        app:srcCompat="@drawable/hiver"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="112dp"
+        android:layout_height="104dp"
+        android:layout_row="0"
+        android:layout_column="1"
+        app:srcCompat="@drawable/printemps"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="104dp"
+        android:layout_height="92dp"
+        android:layout_row="1"
+        android:layout_column="0"
+        app:srcCompat="@drawable/summer"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="112dp"
+        android:layout_height="92dp"
+        android:layout_row="1"
+        android:layout_column="1"
+        app:srcCompat="@drawable/automne"
+        tools:ignore="VectorDrawableCompat" />
+</GridLayout>
